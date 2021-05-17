@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-17T17:25:20 PET" name="Suite" finished-at="2021-05-17T17:25:37 PET" duration-ms="16623">
+    <groups>
+    </groups>
+    <test started-at="2021-05-17T17:25:20 PET" name="Login" finished-at="2021-05-17T17:25:37 PET" duration-ms="16623">
+      <class name="com.brein.testng.LoginTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.brein.testng.LoginTest@6fd83fc1]" started-at="2021-05-17T17:25:20 PET" name="beforeSuite" finished-at="2021-05-17T17:25:20 PET" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.brein.testng.LoginTest@6fd83fc1]" started-at="2021-05-17T17:25:20 PET" name="beforeTest" finished-at="2021-05-17T17:25:20 PET" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.brein.testng.LoginTest@6fd83fc1]" started-at="2021-05-17T17:25:20 PET" name="beforeClass" finished-at="2021-05-17T17:25:25 PET" duration-ms="4725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="test()[pri:0, instance:com.brein.testng.LoginTest@6fd83fc1]" started-at="2021-05-17T17:25:25 PET" name="test" finished-at="2021-05-17T17:25:34 PET" duration-ms="9543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.brein.testng.LoginTest@6fd83fc1]" started-at="2021-05-17T17:25:34 PET" name="afterClass" finished-at="2021-05-17T17:25:34 PET" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.brein.testng.LoginTest@6fd83fc1]" started-at="2021-05-17T17:25:35 PET" name="afterTest" finished-at="2021-05-17T17:25:37 PET" duration-ms="2009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.brein.testng.LoginTest -->
+    </test> <!-- Login -->
+  </suite> <!-- Suite -->
+</testng-results>
