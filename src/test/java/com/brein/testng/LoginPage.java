@@ -3,6 +3,8 @@ package com.brein.testng;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+import com.brein.framework.Base;
+
 public class LoginPage extends Base{
 
 	

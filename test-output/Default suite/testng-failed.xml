@@ -6,10 +6,7 @@
       <class name="com.brein.testng.LoginTest">
         <methods>
           <include name="test"/>
-          <include name="beforeTest"/>
-          <include name="beforeSuite"/>
           <include name="afterClass"/>
-          <include name="afterTest"/>
           <include name="beforeClass"/>
         </methods>
       </class> <!-- com.brein.testng.LoginTest -->
